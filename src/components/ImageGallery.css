@@ -1,0 +1,19 @@
+.galleryItem{
+width: auto;
+height: auto;
+}
+
+.galleryImage{
+width: 400px;
+height: 300px;
+}
+
+.galleryList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    flex-wrap: wrap;
+    gap: 20px;
+}
