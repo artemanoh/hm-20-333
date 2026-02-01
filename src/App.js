@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useState } from "react";
 import "./App.css";
 import ImageGallery from "./components/ImageGallery";
 import Modal from "./components/Modal";
